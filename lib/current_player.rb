@@ -6,3 +6,4 @@ def turn_count(board)
     puts "O"
   end
 end
+turns
