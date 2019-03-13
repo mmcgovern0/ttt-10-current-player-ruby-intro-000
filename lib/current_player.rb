@@ -13,3 +13,4 @@ def turn_count(board)
     else
       puts "O"
   end
+end
