@@ -1,5 +1,5 @@
 def turn_count(board)
-  turn_count = 0 
+  turn = 0 
   turn count += 1
 end
 
